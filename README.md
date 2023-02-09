@@ -1,1 +1,1 @@
-adding readme
+Allowed editors: vi, vim, emacs
